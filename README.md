@@ -1,7 +1,7 @@
 Game Programmer
 서정완
 
-1. Tech Stack
+## ⚙ Tech Stack
 - Unity
 - C#
 - Git / GitHub / SorceTree
@@ -17,11 +17,11 @@ Game Programmer
 - Rapidfire (2019) - 유니티 1인개발 / 방치형 디펜스 / AOS / 총기 수집 모바일 게임
 - 도네타격게임 (2019) - 유니티 1인개발 / 클리커 / 미출시 / 스트리머 게임 개발 참여
 
-## Experience
+## 💡 Experience
 - 클라이언트 프로그래머 (5년) 2021 ~ 2026
 - 게임 운영자 (5년) 2013 ~ 2018
 
-## Contact
+## ✉ Contact
 - Email: wpg123@naver.com
 
 ## 🎓 학력
