@@ -8,7 +8,7 @@
 - AR Foundation / 
 
 ## 💻 Projects
-- BonfireSimulator (2026) - 유니티 1인개발 / 시뮬레이션 / PC Steam / 모닥불 시뮬레이터
+- [BonfireSimulator (2026)](https://github.com/Ring99/BonfireSimulator) - 유니티 1인개발 / 시뮬레이션 / PC Steam / 모닥불 시뮬레이터
 - 망량 : Detectors (2025) - 유니티 전투파트 개발 / 덱빌딩 로그라이트 / AOS / 한국형 어반 판타지
 - Duwing (2025) - 유니티 후속개발 / 교육 / AOS, iOS / 메타버스 플랫폼
 - 점심런 (2023) - 유니티 1인개발 / 3D 미니게임 / 미출시 / 러닝 시뮬레이션
