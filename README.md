@@ -6,6 +6,7 @@
 - C#
 - Git / GitHub / SorceTree
 - AR Foundation
+- AI: Claude Code / GPT / Gemini / Grok
 
 ## 💻 Projects
 - [BonfireSimulator (2026)](https://github.com/Ring99/BonfireSimulator) - 유니티 1인개발 / 시뮬레이션 / PC Steam / 모닥불 시뮬레이터
