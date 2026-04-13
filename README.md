@@ -12,7 +12,7 @@
 - [BonfireSimulator (2026)](https://github.com/Ring99/BonfireSimulator) - 유니티 1인개발 / 시뮬레이션 / PC Steam / 모닥불 시뮬레이터
 - [망량 : Detectors (2025)](https://github.com/Ring99/Mangryang) - 유니티 전투파트 개발 / 덱빌딩 로그라이트 / AOS / 한국형 어반 판타지
 - [Duwing (2025)](https://github.com/Ring99/Duwing) - 유니티 후속개발 / 교육 / AOS, iOS / 메타버스 플랫폼
-- 점심런 (2023) - 유니티 1인개발 / 3D 미니게임 / 미출시 / 러닝 시뮬레이션
+- [점심런 (2023)](https://github.com/Ring99/RunchRun) - 유니티 1인개발 / 3D 미니게임 / 미출시 / 러닝 시뮬레이션
 - 매직 포레스트 어드벤쳐 (2024) - 유니티 콘텐츠 개발 / 프로모션 / AOS, iOS / 롯데월드 협업 프로젝트
 - 봉구야 말해줘 (2022) - 유니티 1인개발 / AR 시뮬레이션 / AOS, iOS / EBS 협업 프로젝트
 - Rapidfire (2019) - 유니티 1인개발 / 2D 방치형 디펜스 / AOS / 총기 수집 모바일 게임
